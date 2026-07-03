@@ -13,3 +13,13 @@ To forward the port
 To exit from localhost
 
 **ctrl + c**
+**ADDED deployment config. **
+
+Commands--
+
+**kubectl apply -f deployment.yaml**
+to scaling --
+
+kubectl scale deployment 
+
+**Kubectl scale deployment (app name) -- replicas =5** 
